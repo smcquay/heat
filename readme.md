@@ -1,3 +1,3 @@
 # heat
 
-make heat by spinning up cpus
+make heat using cpus
